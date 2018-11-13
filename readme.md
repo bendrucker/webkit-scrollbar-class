@@ -1,4 +1,4 @@
-# webkit-scrollbar-class [![Build Status](https://travis-ci.org/bendrucker/webkit-scrollbar-class.svg?branch=master)](https://travis-ci.org/bendrucker/webkit-scrollbar-class)
+# webkit-scrollbar-class [![Build Status](https://travis-ci.org/bendrucker/webkit-scrollbar-class.svg?branch=master)](https://travis-ci.org/bendrucker/webkit-scrollbar-class) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/webkit-scrollbar-class.svg)](https://greenkeeper.io/)
 
 > Create a random class name that implements scrollbar pseudoclass styling in CSS
 
