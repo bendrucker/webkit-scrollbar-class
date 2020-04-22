@@ -30,7 +30,7 @@
     "index.js"
   ],
   "dependencies": {
-    "boolean-filter-obj": "~1.0.0",
+    "boolean-filter-obj": "~2.0.0",
     "cuid": "~2.1.4",
     "insert-styles": "~1.2.1",
     "style-css": "~1.0.2"
